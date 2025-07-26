@@ -1,5 +1,5 @@
 # EMMOP
-This is the MATLAB implementation of article "Multiobjective multi-UAV path planning via evolutionary multitasking optimization with adaptive operator selection and knowledge fusion" by Kai Meng, Binghong Wu, Bin Xin, Fang Deng and Chen Chen. Coded by Binghong Wu.
+Coded by Binghong Wu.
 
 For any question, please contact 3120240820@bit.edu.cn (Binghong Wu)
 
