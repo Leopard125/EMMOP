@@ -5,7 +5,7 @@ For any question, please contact 3120240820@bit.edu.cn (Binghong Wu)
 
 ------
 
-The code is built above PlatEMO: A MATLAB platform for evolutionary multi-objective optimization [educational forum], thanks to Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin. Note that we use a previous version of PlatEMO v2.7.
+The code is built upon PlatEMO: A MATLAB platform for evolutionary multi-objective optimization [educational forum], thanks to Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin. Note that we use a previous version of PlatEMO v2.7.
 
 How to use the code:
 
@@ -14,6 +14,7 @@ How to use the code:
 - Put the folder 'EMMOP' under PlatEMO folder 'Algorithm'. 
 - Put the folder 'MOMUPP' under PlatEMO folder 'Problems'.
 - Put 'main.m' and 'runme.m' in folder 'PlatEMO', cover previous files if necessary.
+- Put 'GLOBAL.m' and 'myDraw.m' under PlatEMO folder 'Public', cover previous files if necessary.
 - Run the code via 'runme.m'.
 
  You may output different kinds of result from 'runme.m':
