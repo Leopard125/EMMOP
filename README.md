@@ -8,7 +8,7 @@ The supplementary material includes the datasets associated with the experimenta
 The code is built upon **PlatEMO:** _A MATLAB platform for evolutionary multi-objective optimization_ [educational forum], with sincere thanks to Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin. 
 **Note:** This implementation uses a previous version of PlatEMO (v2.7).
 
-## How to use the code:
+## How to use the code
 
 1 Setup running environment: 
 
