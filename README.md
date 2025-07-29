@@ -1,9 +1,6 @@
 # EMMOP
 
 ------
-## Supplementary Material
-The supplementary material includes the datasets associated with the experimental results reported in the manuscript currently under peer review.
-
 ## Code Base
 The code is built upon **PlatEMO:** _A MATLAB platform for evolutionary multi-objective optimization_ [educational forum], with sincere thanks to Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin. 
 **Note:** This implementation uses a previous version of PlatEMO (v2.7).
@@ -28,3 +25,6 @@ The code is built upon **PlatEMO:** _A MATLAB platform for evolutionary multi-ob
 2 You can modify the number of evaluations and the population size in 'runme.m'.
 
 3 Other algorithm-specific parameters can be configured in 'EMMOP.m'.
+
+## Supplementary Material
+The supplementary material includes the datasets corresponding to the experimental results reported in the manuscript currently under peer review. This page will be updated with the final supplementary materials upon acceptance of the manuscript for publication.
