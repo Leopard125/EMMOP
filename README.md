@@ -1,11 +1,14 @@
 # EMMOP
 
 ------
-Supplementary material has been provided, which includes the datasets associated with the results reported in the manuscript under peer review.
+## Supplementary Material
+The supplementary material includes the datasets associated with the experimental results reported in the manuscript currently under peer review.
 
-The code is built upon PlatEMO: A MATLAB platform for evolutionary multi-objective optimization [educational forum], thanks to Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin. Note that we use a previous version of PlatEMO v2.7.
+## Code Base
+The code is built upon **PlatEMO:** _A MATLAB platform for evolutionary multi-objective optimization_ [educational forum], with sincere thanks to Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin. 
+**Note:** This implementation uses a previous version of PlatEMO (v2.7).
 
-How to use the code:
+## How to use the code:
 
 1 Setup running environment: 
 
@@ -17,11 +20,11 @@ How to use the code:
 
  You may output different kinds of result from 'runme.m':
 
-- The Pareto front of our algorithm.
-- The balanced path planning figure of UAVs.
 - The best, average and standard deviation of HV/PD values.
-- Runtime of our algorithm.
+- The approximated Pareto front of our algorithm.
+- The balanced path planning figure of UAVs.
+- The runtime of the algorithm.
 
-2 You may change evaluation times and size of population in 'runme.m', while other algorithm parameters in 'EMMOP.m'.
+2 You can modify the number of evaluations and the population size in 'runme.m'.
 
-3 You may change the problem scale in 'MOMUPP.m'.
+3 Other algorithm-specific parameters can be configured in 'EMMOP.m'.
