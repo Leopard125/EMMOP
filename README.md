@@ -15,6 +15,8 @@ The code is built upon **PlatEMO:** _A MATLAB platform for evolutionary multi-ob
 - Put 'GLOBAL.m' and 'myDraw.m' under PlatEMO folder 'Public', and cover previous files.
 - Run the code via 'runme.m'.
 
+The results shown in this code correspond to the Map4-UAV4 dataset.
+
  You may output different kinds of result from 'runme.m':
 
 - The best, average and standard deviation of HV/PD values.
