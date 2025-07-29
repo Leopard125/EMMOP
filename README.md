@@ -1,7 +1,4 @@
 # EMMOP
-Coded by Binghong Wu.
-
-For any question, please contact 3120240820@bit.edu.cn (Binghong Wu)
 
 ------
 
