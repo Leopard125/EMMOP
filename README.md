@@ -1,6 +1,7 @@
 # EMMOP
 
 ------
+Supplementary material has been provided, which includes the datasets associated with the results reported in the manuscript under peer review.
 
 The code is built upon PlatEMO: A MATLAB platform for evolutionary multi-objective optimization [educational forum], thanks to Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin. Note that we use a previous version of PlatEMO v2.7.
 
@@ -17,7 +18,7 @@ How to use the code:
  You may output different kinds of result from 'runme.m':
 
 - The Pareto front of our algorithm.
-- The least distance, balanced, and least threatened path planning figure.
+- The balanced path planning figure of UAVs.
 - The best, average and standard deviation of HV/PD values.
 
 2 You may change evaluation times and size of population in 'runme.m', while other algorithm parameters in 'EMMOP.m'.
