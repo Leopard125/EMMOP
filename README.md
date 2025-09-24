@@ -28,5 +28,7 @@ The results shown in this code correspond to the Map4-UAV4 dataset.
 
 3 Other algorithm-specific parameters can be configured in 'EMMOP.m'.
 
+4 The input DEM graph can be configured (.tif format) according to diverse research requirements.
+
 ## Supplementary Material
 The supplementary material includes the datasets corresponding to the experimental results reported in the manuscript currently under peer review. This page will be updated with the final supplementary materials upon acceptance of the manuscript for publication.
